@@ -29,7 +29,7 @@ var j = 0;
 var k = 0;
 var hello = "Chào Chocopie của anh!!!";
 var content = "Vậy là mình đã yêu nhau được " + Math.floor( Math.floor((new Date() - yourDate) / 1000) / 60 / 60 / 24) + " ngày rồi. Thời gian qua có những lúc vui, buồn hay giận dỗi nhau! Những rồi cuối cùng mình lại về với nhau. Anh mong muốn không chỉ 1 ngày, 1 tháng, mà là cả 1 đời.";
-var promise = "Hứa yêu anh mà mãi bên anh em nhé!!! Yêu em!!!";
+var promise = "Hứa yêu anh và mãi bên anh em nhé!!! Yêu em!!!";
 
 function typeHello() {
   if (i < hello.length) {
